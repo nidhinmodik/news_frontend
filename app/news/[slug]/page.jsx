@@ -3,6 +3,7 @@ import Category from "@/components/Category";
 import Footer from "@/components/Footer";
 import Search from "@/components/Search";
 import Title from "@/components/Title";
+import Image from 'next/image';
 import PopularNews from "@/components/news/PopularNews";
 import NewsCard from "@/components/news/items/NewsCard";
 import SimpleDetailsNewCard from "@/components/news/items/SimpleDetailsNewCard";
