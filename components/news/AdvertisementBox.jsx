@@ -6,6 +6,7 @@ import Image from 'next/image';
 
 const AdvertisementBox = async () => {
 
+    console.log(`${base_api_url}`);
 
     const res = await fetch(`${base_api_url}/api/all/ads`, {
         next: {
